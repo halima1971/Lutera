@@ -23,6 +23,17 @@ misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
+# Mac OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Misc
+*.zip
+*.tar.gz
+
 # Keystore files
 *.jks
 *.keystore
