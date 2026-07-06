@@ -1,20 +1,26 @@
 # 🎮 Lutera - Gaming Prediction App
 
-একটি উন্নত এবং শক্তিশালী Android অ্যাপ্লিকেশন যা বিভিন্ন অনলাইন গেমিং প্ল্যাটফর্মে গেমিং পূর্বাভাস প্রদান করে।
+## 📱 সংক্ষিপ্ত পরিচয়
 
-## 🌟 হাইলাইট
+Lutera একটি আধুনিক Android অ্যাপ্লিকেশন যা অনলাইন গেমিং প্ল্যাটফর্মে গেম খেলার জন্য ডিজাইন করা হয়েছে।
 
-- 🔐 **নিরাপদ Authentication**
-- 🎮 **Multiple Game Support**
-- 🤖 **AI-Powered Predictions**
-- 📊 **Real-time Analytics**
-- 🌐 **Web Integration**
-- 📱 **Floating Bot Widget**
+## ✨ প্রধান বৈশিষ্ট্য
 
-## 📥 ইনস্টলেশন
+- 🔐 নিরাপদ লগইন সিস্টেম
+- 🎮 একাধিক গেম সাপোর্ট
+- 🤖 এআই চালিত পূর্বাভাস
+- 📊 রিয়েল-টাইম ড্যাশবোর্ড
+- 🌐 ওয়েব ভিউ ইন্টিগ্রেশন
 
-বিস্তারিত জন্য [INSTALLATION.md](INSTALLATION.md) দেখুন।
+## 🚀 দ্রুত শুরু করুন
 
-```bash
-git clone https://github.com/halima1971/Lutera.git
-cd Lutera
+[INSTALLATION.md](INSTALLATION.md) দেখুন।
+
+## 👤 টেস্ট অ্যাকাউন্ট
+
+Username: test1234
+Password: password123
+
+## 📄 লাইসেন্স
+
+MIT - [LICENSE](LICENSE)
